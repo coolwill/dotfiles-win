@@ -79,17 +79,6 @@
       <Applications>Origin.exe;OriginClientService.exe;bf3.exe;EACoreServer.exe;PnkBstrA.exe;PnkBstrB.exe;SimCity.exe</Applications>
       <Action type="Proxy">101</Action>
     </Rule>
-    <Rule enabled="false">
-      <Name>Boost</Name>
-      <Targets>www.autoseries.net</Targets>
-      <Ports>443</Ports>
-      <Action type="Proxy">101</Action>
-    </Rule>
-    <Rule enabled="false">
-      <Name>Boost</Name>
-      <Applications>Hero_Siege.exe</Applications>
-      <Action type="Proxy">109</Action>
-    </Rule>
     <Rule enabled="true">
       <Name>Default</Name>
       <Action type="Direct" />
