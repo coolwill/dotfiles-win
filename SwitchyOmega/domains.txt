@@ -2031,6 +2031,7 @@
 *.tweetphoto.com
 *.tweetrans.com
 *.tweetree.com
+*.tweettunnel.com
 *.tweetwally.com
 *.tweetymail.com
 *.twftp.org
