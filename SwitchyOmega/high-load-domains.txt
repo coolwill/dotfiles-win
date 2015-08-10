@@ -2,3 +2,4 @@
 *.sj.googleusercontent.com
 *.dl.google.com
 *.dl-ssl.google.com
+*.s3.amazonaws.com
