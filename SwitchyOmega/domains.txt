@@ -707,6 +707,7 @@
 *.fxnetworks.com
 *.fzh999.com
 *.fzh999.net
+*.g.co
 *.gabocorp.com
 *.galenwu.com
 *.gamebase.com.tw
