@@ -764,6 +764,7 @@
 *.globalmuseumoncommunism.org
 *.globalrescue.net
 *.globalvoicesonline.org
+*.gmail.com
 *.gmbd.cn
 *.gmhz.org
 *.godfootsteps.org
@@ -783,6 +784,7 @@
 *.google.com.hk
 *.googleapis.com
 *.googlecode.com
+*.googledrive.com
 *.googlepages.com
 *.googlesite.com
 *.googleusercontent.com
