@@ -3,3 +3,6 @@
 *.dl.google.com
 *.dl-ssl.google.com
 *.s3.amazonaws.com
+*.pornhub.com
+*.twitch.tv
+*.periscope.tv
