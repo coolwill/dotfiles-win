@@ -137,6 +137,7 @@
 *.atj.org.tw
 *.atlaspost.com
 *.atnext.com
+*.atrandys.com
 *.avaaz.org
 *.avidemux.org
 *.avoision.com
@@ -483,6 +484,7 @@
 *.dotheyfolloweachother.com
 *.dotplane.com
 *.dotsub.com
+*.doubibackup.com
 *.doubleaf.com
 *.dougscripts.com
 *.dowei.org
@@ -758,6 +760,7 @@
 *.girlbanker.com
 *.git-scm.com
 *.github.com
+*.githubassets.com
 *.githubusercontent.com
 *.givemesomethingtoread.com
 *.glennhilton.com
@@ -783,6 +786,7 @@
 *.google.com
 *.google.com.hk
 *.googleapis.com
+*.googleblog.com
 *.googlecode.com
 *.googledrive.com
 *.googlepages.com
@@ -2127,6 +2131,7 @@
 *.upload4u.info
 *.uploaded.to
 *.uploadstation.com
+*.urbandictionary.com
 *.urbanoutfitters.com
 *.url.com.tw
 *.urlborg.com
